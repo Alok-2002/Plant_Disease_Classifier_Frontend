@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71d072cd.css",
+    "main.js": "/static/js/main.b9425ff9.js",
+    "static/js/453.d9afc008.chunk.js": "/static/js/453.d9afc008.chunk.js",
+    "static/media/bg.png": "/static/media/bg.d68360469fb8473444cf.png",
+    "static/media/pplogo.png": "/static/media/pplogo.6236ba1ce6ea0bb04ee7.png",
+    "index.html": "/index.html",
+    "main.71d072cd.css.map": "/static/css/main.71d072cd.css.map",
+    "main.b9425ff9.js.map": "/static/js/main.b9425ff9.js.map",
+    "453.d9afc008.chunk.js.map": "/static/js/453.d9afc008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d072cd.css",
+    "static/js/main.b9425ff9.js"
+  ]
+}
