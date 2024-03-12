@@ -155,7 +155,7 @@ export const ImageUpload = () => {
       formData.append("file", selectedFile);
       let res = await axios({
         method: "post",
-        url: "https://disease-fastapi-ximt4i3ghq-ue.a.run.app/predict",
+        url: process.env.REACT_APP_API_URL,
         data: formData,
       });
       if (res.status === 200) {
