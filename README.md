@@ -1,24 +1,20 @@
 # Plant Disease Classifier Frontend
 
-Welcome to the Plant Disease Classifier Deployment repository! This project integrates cutting-edge technologies to develop a sophisticated plant disease classifier. Leveraging TensorFlow for model creation and ReactJS for the web interface, this project offers an innovative solution for identifying plant diseases swiftly and accurately.
+Welcome to the Plant Disease Classifier Frontend repository! This repository contains the frontend code for the Plant Disease Classifier project. It is built entirely in ReactJS and deployed using Netlify.
 
 ## Project Overview
 
-Plant diseases pose significant threats to agricultural productivity worldwide. Timely detection and diagnosis are essential for effective disease management. This project addresses these challenges by employing advanced machine learning techniques to classify plant images and provide insights into their health status.
+The Plant Disease Classifier Frontend is a web application developed to identify plant diseases swiftly and accurately. Utilizing ReactJS for the frontend, this project offers a user-friendly interface for uploading plant images and receiving disease classification results.
 
 ## Key Components
 
-### 1. TensorFlow Model
+### 1. ReactJS Web Interface
 
-The heart of this project is a state-of-the-art machine learning model built with TensorFlow. Trained on a diverse dataset of plant images, the model can accurately classify plants into various disease categories, enabling rapid and precise diagnosis.
+The repository includes the ReactJS-based web interface, providing users with an intuitive platform to upload images of plants. The interface seamlessly integrates with the backend classifier (not included) to process uploaded images and display disease classification results.
 
-### 2. ReactJS Web Interface
+### 2. Deployment
 
-The project features a sleek and intuitive web interface developed using ReactJS. Users can effortlessly upload images of plants via the interface, allowing the deployed model to analyze them promptly. The interface offers a seamless user experience, making plant disease classification accessible to all.
-
-### 3. Deployment
-
-Experience the power of our plant disease classifier firsthand! The web interface is deployed and available online at [Plant Disease Classifier.Com](https://plant-disease.netlify.app/). Simply visit the provided URL to begin using the classifier immediately, without the need for any local setup.
+Experience the Plant Disease Classifier in action! The web interface is deployed and accessible online at [Plant Disease Classifier](https://plant-disease.netlify.app/). You can visit the provided URL to utilize the classifier immediately without any local setup.
 
 ### 3.Website Images
 Check out some screenshots of our web interface:
@@ -33,19 +29,56 @@ Check out some screenshots of our web interface:
 
 ## Getting Started
 
-1. Visit the deployed web interface at [Plant Disease Classifier.Com](https://plant-disease.netlify.app/).
-2. Upload an image of a plant using the sleek and user-friendly interface.
-3. Sit back and relax as the classifier swiftly processes the image.
-4. Explore the classification results, which offer valuable insights into the health of the uploaded plant.
+1. Visit the deployed web interface at [Plant Disease Classifier](https://plant-disease.netlify.app/).
+2. Upload an image of a plant using the user-friendly interface.
+3. Wait for the classifier to process the image.
+4. Explore the classification results to gain insights into the health of the uploaded plant.
+
+## Usage
+
+The Plant Disease Classifier Frontend is designed to be simple and intuitive. Users can upload images of plants through the web interface and receive immediate disease classification results. Here's how to use it:
+
+1. **Upload Image**: Click on the "Upload" button to select an image of a plant from your device.
+2. **View Results**: Once the image is uploaded, the classifier will process it, and the results will be displayed on the screen.
+3. **Explore Insights**: Gain valuable insights into the health of the plant based on the disease classification provided by the classifier.
+
+## Project Structure
+
+The frontend codebase is organized as follows:
+
+```
+plant-disease-classifier-frontend/
+│
+├── public/              # Public assets and index.html
+│
+├── src/                 # Source code directory
+│   ├── components/      # React components
+│   ├── styles/          # CSS stylesheets
+│   ├── App.js           # Main application component
+│   └── index.js         # Entry point
+│
+├── .gitignore           # Specifies intentionally untracked files to ignore
+├── LICENSE              # MIT License file
+└── README.md            # Project README file
+```
+
+## Dependencies
+
+The Plant Disease Classifier Frontend relies on the following major dependencies:
+
+- React: A JavaScript library for building user interfaces.
+- Axios: A promise-based HTTP client for making API requests.
+- React Router: Declarative routing for React applications.
+- Netlify: Hosting platform for deploying web applications.
 
 ## Contributions
 
-We welcome contributions from the community to enhance this project further. Whether you have ideas for new features, improvements, or bug fixes, we encourage you to get involved. Feel free to open an issue or submit a pull request—we value your input!
+We welcome contributions from the community to improve this project. Whether you have ideas for enhancing the frontend interface, adding new features, or fixing bugs, your contributions are valuable. Feel free to open an issue or submit a pull request—we appreciate your input!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), granting you the freedom to use and modify the code according to the terms of the license.
-
+This project is licensed under the [MIT License](LICENSE), allowing you to use and modify the code in accordance with the terms of the license.
 
 ## Contact
-Have questions or feedback? Reach out to us at [Sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com).
+
+If you have any questions or feedback, please don't hesitate to contact us at [Sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com).
