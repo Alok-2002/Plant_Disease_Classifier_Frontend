@@ -18,7 +18,7 @@ The project features a sleek and intuitive web interface developed using ReactJS
 
 ### 3. Deployment
 
-Experience the power of our plant disease classifier firsthand! The web interface is deployed and available online at [https://plant-disease.netlify.app/](https://plant-disease.netlify.app/). Simply visit the provided URL to begin using the classifier immediately, without the need for any local setup.
+Experience the power of our plant disease classifier firsthand! The web interface is deployed and available online at [Plant Disease Classifier.Com](https://plant-disease.netlify.app/). Simply visit the provided URL to begin using the classifier immediately, without the need for any local setup.
 
 ### 3.Website Images
 Check out some screenshots of our web interface:
@@ -31,12 +31,9 @@ Check out some screenshots of our web interface:
 
 
 
-
-
-
 ## Getting Started
 
-1. Visit the deployed web interface at [https://plant-disease.netlify.app/](https://plant-disease.netlify.app/).
+1. Visit the deployed web interface at [Plant Disease Classifier.Com](https://plant-disease.netlify.app/).
 2. Upload an image of a plant using the sleek and user-friendly interface.
 3. Sit back and relax as the classifier swiftly processes the image.
 4. Explore the classification results, which offer valuable insights into the health of the uploaded plant.
