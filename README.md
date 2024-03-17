@@ -18,20 +18,25 @@ The project features a sleek and intuitive web interface developed using ReactJS
 
 ### 3. Deployment
 
-Experience the power of our plant disease classifier firsthand! The web interface is deployed and available online at [https://disease-fastapi-ximt4i3ghq-ue.a.run.app/predict](https://disease-fastapi-ximt4i3ghq-ue.a.run.app/predict). Simply visit the provided URL to begin using the classifier immediately, without the need for any local setup.
+Experience the power of our plant disease classifier firsthand! The web interface is deployed and available online at [https://plant-disease.netlify.app/](https://plant-disease.netlify.app/). Simply visit the provided URL to begin using the classifier immediately, without the need for any local setup.
 
 ### 3.Website Images
 Check out some screenshots of our web interface:
 
 
-Caption for screenshot 1.
+![Screenshot 2024-03-16 205033](https://github.com/Alok-2002/Plant_Disease_Classifier_Frontend/assets/93814546/9cc77c2e-eca5-4bca-a7c0-a530be47e1a2)
 
 
-Caption for screenshot 2.
+![Screenshot 2024-03-16 205119](https://github.com/Alok-2002/Plant_Disease_Classifier_Frontend/assets/93814546/c23603cd-984c-4dfc-93f1-c1f184b3ba2b)
+
+
+
+
+
 
 ## Getting Started
 
-1. Visit the deployed web interface at [https://disease-fastapi-ximt4i3ghq-ue.a.run.app/predict](https://disease-fastapi-ximt4i3ghq-ue.a.run.app/predict).
+1. Visit the deployed web interface at [https://plant-disease.netlify.app/](https://plant-disease.netlify.app/).
 2. Upload an image of a plant using the sleek and user-friendly interface.
 3. Sit back and relax as the classifier swiftly processes the image.
 4. Explore the classification results, which offer valuable insights into the health of the uploaded plant.
