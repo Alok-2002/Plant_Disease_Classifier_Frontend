@@ -1,4 +1,4 @@
-# Plant Disease Classifier Deployment
+# Plant Disease Classifier Frontend
 
 Welcome to the Plant Disease Classifier Deployment repository! This project integrates cutting-edge technologies to develop a sophisticated plant disease classifier. Leveraging TensorFlow for model creation and ReactJS for the web interface, this project offers an innovative solution for identifying plant diseases swiftly and accurately.
 
